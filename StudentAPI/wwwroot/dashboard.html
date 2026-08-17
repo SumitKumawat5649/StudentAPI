@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Portal - Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f9;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: #333;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 4px;
+        }
+
+        .logout-btn {
+            background-color: #dc3545;
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+            .logout-btn:hover {
+                background-color: #c82333;
+            }
+
+        .tab-container {
+            margin-top: 20px;
+            display: flex;
+            gap: 10px;
+        }
+
+        .tab-btn {
+            padding: 10px 20px;
+            font-size: 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            background-color: #ccc;
+            font-weight: bold;
+        }
+
+            .tab-btn.active {
+                background-color: #007bff;
+                color: white;
+            }
+
+        .section {
+            background: white;
+            padding: 20px;
+            border-radius: 6px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            margin-top: 15px;
+        }
+
+        h3 {
+            color: #007bff;
+            margin-top: 0;
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 5px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+            background: white;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #007bff;
+            color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        .view-exams-btn {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            padding: 6px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+            .view-exams-btn:hover {
+                background-color: #218838;
+            }
+
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h2>Student Management System Dashboard</h2>
+        <button class="logout-btn" id="logoutBtn">Logout</button>
+    </div>
+
+    <!-- टैब नेविगेशन -->
+    <div class="tab-container">
+        <button class="tab-btn active" id="studentsTabBtn">Students List</button>
+        <button class="tab-btn" id="coursesTabBtn">Courses List</button>
+    </div>
+
+    <!-- 1. स्टूडेंट्स सेक्शन -->
+    <div id="studentsSection" class="section">
+        <h3>All Students</h3>
+        <table>
+           
+            <thead>
+                <tr>
+                    <th>Student ID</th>
+                    <th>Student Name</th>
+                    <th>Description</th>
+                    <th>Age</th>
+                    <th>Course Name</th>
+                    <th>Exam Name</th> <!-- नया कॉलम -->
+                    <th>Marks Obtained / Total</th> <!-- नया कॉलम -->
+                    <th>Status</th> <!-- नया कॉलम -->
+                </tr>
+            </thead>
+            <tbody id="studentTableBody">
+                <tr><td colspan="8" style="text-align: center;">Loading all students records...</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- 2. कोर्सेस सेक्शन -->
+    <div id="coursesSection" class="section hidden">
+        <h3>All Active Courses</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Course ID</th>
+                    <th>Course Name</th>
+                    <th>Course Code</th>
+                </tr>
+            </thead>
+            <tbody id="courseTableBody">
+                <tr><td colspan="3" style="text-align: center;">Loading courses...</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    
+
+    <script src="/app.js"></script>
+</body>
+</html>

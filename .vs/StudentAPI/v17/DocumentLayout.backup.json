@@ -1,0 +1,467 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\repository\\examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\repository\\examrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\repository\\iexamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\repository\\iexamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\models\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\models\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\wwwroot\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\wwwroot\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Migrations\\20260813071334_AddExamAndMarksTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentAPI\\Migrations\\20260813071334_AddExamAndMarksTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\migrations\\20260809130510_forcesynccourseandrelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\migrations\\20260809130510_forcesynccourseandrelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Migrations\\20260809104056_AddCourseTableAndRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentAPI\\Migrations\\20260809104056_AddCourseTableAndRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\migrations\\20260809072530_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\migrations\\20260809072530_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|c:\\users\\kumaw\\source\\repos\\studentapi\\studentapi\\migrations\\20260813072050_addexanandmarkstablesfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94150773-C3F3-4B62-9FC2-0D800B4E5594}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\migrations\\20260813072050_addexanandmarkstablesfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Repository\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Repository\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Repository\\ICourseRepository.cs",
+              "RelativeToolTip": "StudentAPI\\Repository\\ICourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T05:45:51.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Models\\Student.cs",
+              "RelativeToolTip": "StudentAPI\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:33:49.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Models\\Exam.cs",
+              "RelativeToolTip": "StudentAPI\\Models\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T07:06:22.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "StudentAPI\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T05:44:17.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Repository\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Repository\\CourseRepository.cs",
+              "RelativeToolTip": "StudentAPI\\Repository\\CourseRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvyMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T07:30:19.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IExamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Repository\\IExamRepository.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Repository\\IExamRepository.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Repository\\IExamRepository.cs",
+              "RelativeToolTip": "StudentAPI\\Repository\\IExamRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T07:23:14.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Repository\\ExamRepository.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Repository\\ExamRepository.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Repository\\ExamRepository.cs",
+              "RelativeToolTip": "StudentAPI\\Repository\\ExamRepository.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAswG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T07:24:10.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Repository\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentAPI\\Repository\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T05:04:32.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mark.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Models\\Mark.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Models\\Mark.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Models\\Mark.cs",
+              "RelativeToolTip": "StudentAPI\\Models\\Mark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T07:09:32.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Program.cs",
+              "RelativeToolTip": "StudentAPI\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:36:14.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Models\\Course.cs",
+              "RelativeToolTip": "StudentAPI\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T10:33:11.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dashboard.html",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\wwwroot\\dashboard.html",
+              "RelativeDocumentMoniker": "StudentAPI\\wwwroot\\dashboard.html",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\wwwroot\\dashboard.html",
+              "RelativeToolTip": "StudentAPI\\wwwroot\\dashboard.html",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-08-15T10:09:29.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\wwwroot\\login.html",
+              "RelativeDocumentMoniker": "StudentAPI\\wwwroot\\login.html",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\wwwroot\\login.html",
+              "RelativeToolTip": "StudentAPI\\wwwroot\\login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-08-15T09:35:01.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StudentAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T07:20:42.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentAPI\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T05:52:09.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Models\\User.cs",
+              "RelativeToolTip": "StudentAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T07:08:48.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\wwwroot\\app.js",
+              "RelativeDocumentMoniker": "StudentAPI\\wwwroot\\app.js",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\wwwroot\\app.js",
+              "RelativeToolTip": "StudentAPI\\wwwroot\\app.js",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAmwJgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-08-15T09:29:02.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExamsController.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Controllers\\ExamsController.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Controllers\\ExamsController.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Controllers\\ExamsController.cs",
+              "RelativeToolTip": "StudentAPI\\Controllers\\ExamsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T07:45:36.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T04:37:32.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "StudentAPI\\Controllers\\DashBoardController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwDAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T09:03:21.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "StudentAPI\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T07:42:27.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20260813072050_AddExanAndMarksTablesFix.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Migrations\\20260813072050_AddExanAndMarksTablesFix.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Migrations\\20260813072050_AddExanAndMarksTablesFix.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Migrations\\20260813072050_AddExanAndMarksTablesFix.cs",
+              "RelativeToolTip": "StudentAPI\\Migrations\\20260813072050_AddExanAndMarksTablesFix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T07:20:50.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260813071334_AddExamAndMarksTables.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Migrations\\20260813071334_AddExamAndMarksTables.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Migrations\\20260813071334_AddExamAndMarksTables.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Migrations\\20260813071334_AddExamAndMarksTables.cs",
+              "RelativeToolTip": "StudentAPI\\Migrations\\20260813071334_AddExamAndMarksTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T07:13:34.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260809104056_AddCourseTableAndRelation.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Migrations\\20260809104056_AddCourseTableAndRelation.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Migrations\\20260809104056_AddCourseTableAndRelation.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Migrations\\20260809104056_AddCourseTableAndRelation.cs",
+              "RelativeToolTip": "StudentAPI\\Migrations\\20260809104056_AddCourseTableAndRelation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T10:40:57.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260809130510_ForceSyncCourseAndRelations.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Migrations\\20260809130510_ForceSyncCourseAndRelations.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Migrations\\20260809130510_ForceSyncCourseAndRelations.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Migrations\\20260809130510_ForceSyncCourseAndRelations.cs",
+              "RelativeToolTip": "StudentAPI\\Migrations\\20260809130510_ForceSyncCourseAndRelations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T13:05:10.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\appsettings.json",
+              "RelativeToolTip": "StudentAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-09T07:17:25.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260809072530_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Migrations\\20260809072530_InitialCreate.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Migrations\\20260809072530_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\kumaw\\source\\repos\\StudentAPI\\StudentAPI\\Migrations\\20260809072530_InitialCreate.cs",
+              "RelativeToolTip": "StudentAPI\\Migrations\\20260809072530_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T07:25:31.094Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

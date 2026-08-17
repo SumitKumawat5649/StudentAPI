@@ -1,0 +1,3 @@
+wwwroot\login.html
+wwwroot\dashboard.html
+wwwroot\app.js
